@@ -14,3 +14,5 @@ Our conclusions in more detail are discussed in the report inside this repositor
 Team members:
 * [Giorgoulakis Nikolaos](https://github.com/nikosgio)  
 * [Kaparou Alexandra](https://github.com/alexandrakapa)
+
+This project was graded with 100/100.
