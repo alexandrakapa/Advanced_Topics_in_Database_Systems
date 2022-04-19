@@ -1,0 +1,21 @@
+Action,8659,Hulk,588,5.0,The Bodyguard,2.0
+Adventure,8659,座頭市,369,4.5,Fool's Gold,2.0
+Animation,45811,A Grand Day Out,117,5.0,Astérix et la surprise de César,0.5
+Comedy,45811,Runaway Bride,1026,5.0,Astérix et la surprise de César,0.5
+Crime,8659,The Thomas Crown Affair,476,5.0,Das Cabinet des Dr. Caligari,2.0
+Documentary,45811,Crumb,215,5.0,Paper Clips,0.5
+Drama,45811,Australia,1817,5.0,羅生門,0.5
+Family,45811,A Grand Day Out,198,5.0,Astérix et la surprise de César,0.5
+Fantasy,8659,Blood: The Last Vampire,249,5.0,The Addams Family,0.5
+Foreign,45811,Dreams of a Life,134,5.0,Shekvarebuli kulinaris ataserti retsepti,1.0
+History,8659,Longitude,155,4.5,Fail-Safe,2.0
+History,45811,Roma città aperta,155,5.0,Грозовые ворота,0.5
+Horror,45811,Freaks,350,5.0,Outpost,0.5
+Music,45811,Nashville,130,5.0,A Hard Day's Night,0.5
+Mystery,8659,Trois couleurs : Rouge,239,5.0,Breakheart Pass,2.0
+Romance,45811,Runaway Bride,586,5.0,There's Something About Mary,0.5
+Science Fiction,8659,Blood: The Last Vampire,313,5.0,"20,000 Leagues Under the Sea",2.0
+TV Movie,45811,Straight From the Heart,38,4.5,Buck Rogers in the 25th Century,1.5
+Thriller,8659,The Thomas Crown Affair,727,5.0,The Bodyguard,2.0
+War,45811,Doctor Zhivago,120,5.0,The Great Escape,0.5
+Western,45811,Johnny Guitar,84,5.0,Firecreek,1.0
